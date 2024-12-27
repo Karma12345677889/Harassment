@@ -1,0 +1,21 @@
+
+/* Explore Problems Section */
+.explore {
+    background-color: #e3f2fd;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.explore .problem {
+    margin: 20px 0;
+}
+
+.explore .problem h3 {
+    font-size: 24px;
+}
+
+.explore .problem a {
+    color: #2e8b57;
+    margin-top: 10px;
+    display: inline-block;
+}
